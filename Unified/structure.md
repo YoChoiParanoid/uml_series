@@ -90,7 +90,7 @@ Mô tả các ràng buộc kỹ thuật và phi kỹ thuật.
 
 - Kết quả:
 
-    - Hệ thống hoạt động được ở mức cơ bản (phiên bản beta).
+    - Hệ thống hoạt động được ở mức cơ bản (phiên bản beta: open beta và close beta).
 
 ### Pha 4: Pha Chuyển Tiếp (Transition) – Kiểm thử và triển khai
 - Mục tiêu:
